@@ -31,21 +31,3 @@
         justify-content: center;
     }
 }
-
-@media (max-width: 1320px) {
-    .hidden__sc {
-        display: none;
-    }
-}
-
-@media (max-width: 1105px) {
-    .auth_nimo__hidden {
-        display: none;
-    }
-
-    .auth_nimo_respon {
-        display: flex;
-        margin-right: 5%;
-        margin-left: 25%;
-    }
-}
